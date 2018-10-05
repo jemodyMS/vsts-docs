@@ -1,5 +1,5 @@
 ---
-title: Create your first pipeline
+title: Create your first build pipeline
 titleSuffix: Azure Pipelines
 description: Create your first pipeline using Azure DevOps Services and Team Foundation Server (TFS)
 ms.prod: devops
